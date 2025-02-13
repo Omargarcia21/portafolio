@@ -6,10 +6,6 @@ Este repositorio contiene mi portafolio personal, que incluye información sobre
 
 ---
 
-🌐 **Demo del proyecto:** [Portafolio Personal](https://omargarcia21.github.io/portafolio-personal.github.io/)
-
----
-
 ## 🚀 Tecnologías utilizadas
 - **HTML5:** Para estructurar el contenido de la página.
 - **CSS3 y SASS:** Para estilizar la página y aplicar un diseño modular y fácil de mantener.
